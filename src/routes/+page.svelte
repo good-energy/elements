@@ -1,5 +1,5 @@
 <script>
-	import { I18n } from '$lib';
+	import { t } from 'svelte-intl-precompile';
 </script>
 
-<I18n key="login" />
+<h1>{$t("hallo")}</h1>

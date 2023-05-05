@@ -65,6 +65,7 @@
 		"@supabase/auth-helpers-sveltekit": "^0.9.4",
 		"@supabase/supabase-js": "^2.21.0",
 		"@sveltejs/adapter-vercel": "^2.4.3",
-		"felte": "^1.2.7"
+		"felte": "^1.2.7",
+		"svelte-intl-precompile": "^0.12.1"
 	}
 }
